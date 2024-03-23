@@ -1,13 +1,10 @@
 {
   "name": "tk44cli-number-guessing",
   "version": "1.0.0",
-  "description": "Experience the thrill of guessing numbers with our interative game on GitHub!",
+  "description": "Experience the thrill of guessing numbers with our interactive game on GitHub!",
   "main": "index.js",
-  "type": "module",
   "bin": "app.js",
-  "publishConfig": {
-    "access": "public"
-  },
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
